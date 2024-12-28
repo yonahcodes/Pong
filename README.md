@@ -1,5 +1,7 @@
 # Pong - 2D Multiplayer Game
 
+![Pong 2D Game](pongScreenshot.png)
+
 ## Description
 This project was developed as part of an **Introduction to Video Game Programming** course. The game is a modern take on the classic `Pong` game, featuring multiple game modes and enhanced mechanics. Developed in `Unity`, the project integrates class concepts such as interactive menus, sound effects, multiplayer gameplay, and AI-based paddle movement, all implemented using custom `C#` scripts.
 
