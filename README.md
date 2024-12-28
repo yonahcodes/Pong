@@ -82,7 +82,17 @@ This project was developed as part of an **Introduction to Video Game Programmin
 - Free or personally created assets (no copyrighted media).
 
 ## How to Play
-Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/yonahcodes/Pong.git
    ```
+
+2. Install Prerequisites:
+    - Download and install `Unity Hub` from the official Unity website
+    - Install Unity version `LTS 2022.3.40f1` through Unity Hub
+    - Ensure you have a graphics card driver that supports Unity's requirements
+
+3. Opening the Project:
+    - Launch Unity Hub
+    - Click `Add` and browse to the cloned repository folder
+    - Select the project folder and open it in Unity Editor
